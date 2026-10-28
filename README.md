@@ -1,5 +1,6 @@
 # cybersecurity-journey
 My cybersecurity learning journey — daily notes, hands-on labs, resources, projects and progress.
+<<<<<<< HEAD
 
 ## My Learning Progress
 
@@ -14,3 +15,5 @@ My cybersecurity learning journey — daily notes, hands-on labs, resources, pro
 - projects/: Portfolio projects
 - cards/: LinkedIn learning cards
 - resources/: Learning resources
+=======
+>>>>>>> origin/main
